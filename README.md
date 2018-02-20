@@ -9,4 +9,4 @@ It is possible to set one or two alarms. When an alarm fires, it will sound some
 
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)
 
-![alt text](https://raw.githubusercontent.com/rdpqm2/Alarm_Clock/branch/path/to/Alarm_Clock.png)
+![alt text](https://raw.githubusercontent.com/rdpqm2/Alarm_Clock/README.MD/path/to/Alarm_Clock.png)
